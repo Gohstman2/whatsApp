@@ -1,0 +1,21 @@
+# Fichiers de session
+/storage/
+
+# Dépendances
+/node_modules/
+
+# Environnement
+.env
+.env.local
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
